@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635088830269",
+    "firebase_url": "https://learningfirebase-9aa29.firebaseio.com",
+    "project_id": "learningfirebase-9aa29",
+    "storage_bucket": "learningfirebase-9aa29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635088830269:android:30c4d50c7dc3af80",
+        "android_client_info": {
+          "package_name": "com.example.nora.learningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635088830269-tl10f7kjh7mk29se4robc68tsfkokdfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NCsz_lP80n49MA3H11o56aWdcTuIYPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
